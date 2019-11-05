@@ -5,19 +5,19 @@
 	"health": 10000,
 	"size": 4,
 	"reload": 15,
-	"range": 5000,
+	"range": 625,
 	"ammoUseEffect": "shellEjectSmall",
-	"inaccuracy": 10,
+	"inaccuracy": 5,
 	"rotatespeed": 20,
 	"ammo": {
 		"copper": {
-			"speed": 7.0,
+			"speed": 20.0,
 			"damage": 80,
 			"bulletWidth": 10,
 			"bulletHeight": 13,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"ammoMultiplier": 5
+			"ammoMultiplier": 5,
 		}
 	},
 	"requirements": [
