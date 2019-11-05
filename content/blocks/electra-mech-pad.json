@@ -2,7 +2,7 @@
 	"name": "Electra Mech Pad",
 	"description": "Transform into the Electra mech.",
 	"type": "MechPad",
-	"mech": "Tank",
+	"mech": "Tank-Mech",
 	"size": 2,
 	"consumes": {
 		"power": 0.7
