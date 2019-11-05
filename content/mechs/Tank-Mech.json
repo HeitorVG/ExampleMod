@@ -9,10 +9,10 @@
 	"health": 3000,
 	"weaponOffsetX": 4,
 	"weapon": {
-		"name": "Flames of The Hell",
-		"length": 8.5,
-		"reload": 0,
+		"name": "Thunder of The Hell",
+		"length": 9.5,
+		"reload": 20,
 		"alternate": false,
-		"bullet": "flame"
+		"bullet": "lighting"
 	}
 }
