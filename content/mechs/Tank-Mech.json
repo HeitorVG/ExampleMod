@@ -1,0 +1,18 @@
+{
+	"name": "Tank",
+	"description": "I need explain?",
+	"speed": 0.5,
+	"boostSpeed": 2.5,
+	"buildPower": 20.0,
+	"engineColor": "999999",
+	"flying": false,
+	"health": 3000,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "Flames of The Hell",
+		"length": 8.5,
+		"reload": 0,
+		"alternate": false,
+		"bullet": "fire"
+	}
+}
