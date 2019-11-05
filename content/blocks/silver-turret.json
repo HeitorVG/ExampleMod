@@ -2,7 +2,7 @@
 	"type": "DoubleTurret",
 	"name": "Silver Turret",
 	"description": "Sprays useless silver bullets everywhere. What a mess.",
-	"health": 200,
+	"health": 10000,
 	"size": 1,
 	"reload": 4,
 	"range": 100,
