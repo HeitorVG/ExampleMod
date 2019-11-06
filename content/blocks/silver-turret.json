@@ -12,7 +12,7 @@
 	"ammo": {
 		"iron": {
                         "type":"BasicBulletType"
-			"speed": 300.0,
+			"speed": 30.0,
 			"damage": 200,
 			"bulletWidth": 60,
 			"bulletHeight": 130,
