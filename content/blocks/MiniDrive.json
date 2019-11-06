@@ -12,10 +12,10 @@
     { "item": "lead", "amount": 50}
 	],
 	"ammo": {
-        "all": {
-            "type": "MassDriverBolt"
+        	"all": {
+            	"type": "MassDriverBolt"
         }
-    }
+    },
 	"category": "distribution",
 	"research": "mass-driver"
 
