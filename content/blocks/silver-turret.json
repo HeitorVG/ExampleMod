@@ -11,7 +11,7 @@
 	"rotatespeed": 10,
 	"ammo": {
 		"iron": {
-                        "type":"BasicBulletType"
+                        "type":"BasicBulletType",
 			"speed": 30.0,
 			"damage": 200,
 			"bulletWidth": 6,
@@ -19,9 +19,9 @@
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
 			"ammoMultiplier": 1,
-		}
+		},
                 "lead": {
-                        "type":"BasicBulletType"
+                        "type":"BasicBulletType",
 			"speed": 30.0,
 			"damage": 100,
 			"bulletWidth": 6,
