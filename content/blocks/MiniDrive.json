@@ -12,7 +12,7 @@
     { "item": "lead", "amount": 50}
 	],
 	"ammo": {
-        	"all": {
+        	"copper": {
             	"type": "MassDriverBolt"
         }
     },
