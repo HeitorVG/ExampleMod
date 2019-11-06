@@ -28,12 +28,22 @@
 			"bulletHeight": 13,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
-			"ammoMultiplier": 4,
+			"ammoMultiplier": 8,
+		}
+           "copper": {
+                        "type":"BasicBulletType",
+			"speed": 60.0,
+			"damage": 100,
+			"bulletWidth": 6,
+			"bulletHeight": 13,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"ammoMultiplier": 8,
 		}
 	},
 	"requirements": [
-		{ "item": "silver", "amount": 40 },
-		{ "item": "copper", "amount": 700 }
+		{ "item": "silver", "amount": 140 },
+		{ "item": "copper", "amount": 170 }
 	],
 	"category": "turret",
 	"research": "duo"
