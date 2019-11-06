@@ -20,7 +20,7 @@
 			"smokeEffect": "shootBigSmoke",
 			"ammoMultiplier": 1,
 		}
-                "Lead": {
+                "lead": {
                         "type":"BasicBulletType"
 			"speed": 30.0,
 			"damage": 100,
