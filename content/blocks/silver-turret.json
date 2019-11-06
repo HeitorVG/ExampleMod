@@ -14,11 +14,21 @@
                         "type":"BasicBulletType"
 			"speed": 30.0,
 			"damage": 200,
-			"bulletWidth": 60,
-			"bulletHeight": 130,
+			"bulletWidth": 6,
+			"bulletHeight": 13,
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
 			"ammoMultiplier": 1,
+		}
+                "Lead": {
+                        "type":"BasicBulletType"
+			"speed": 30.0,
+			"damage": 100,
+			"bulletWidth": 6,
+			"bulletHeight": 13,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"ammoMultiplier": 4,
 		}
 	},
 	"requirements": [
