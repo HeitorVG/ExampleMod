@@ -5,6 +5,8 @@
 	"health": 4000,
 	"size": 2,
 	"lightningChance":1,
+	"lightningLength":34,
+	"lightningDamage":30,
 	"requirements": [
 		{ "item": "electrum", "amount": 40 }
 	],
