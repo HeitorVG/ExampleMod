@@ -1,22 +1,13 @@
 {
-  "name": "MiniDrive",
+	"name": "Electron Wall",
 	"description": "A wall made of silver. Not particularly useful or interesting.",
-	"type": "MassDriver",
-	"health": 100,
+	"type": "SurgeWall",
+	"health": 4000,
 	"size": 2,
-  "rotateSpeed": 0.06,
-  "shake": 1,
-  "range": 400,
-  "requirements": [
-		{ "item": "copper", "amount": 40},
-    { "item": "lead", "amount": 50}
+	"lightningChance":1,
+	"requirements": [
+		{ "item": "electrum", "amount": 40 }
 	],
-	"ammo": {
-        	"copper": {
-            	"type": "MassDriverBolt"
-        }
-    },
-	"category": "distribution",
-	"research": "mass-driver"
-
+	"category": "defense",
+	"research": "copper-wall"
 }
