@@ -3,13 +3,19 @@
 	"description": "A wall made of silver. Not particularly useful or interesting.",
 	"type": "MassDriver",
 	"health": 100,
-	"size": 1,
-  "rotateSpeed": 100,
+	"size": 2,
+  "rotateSpeed": 0.06,
   "shake": 1,
+  "range": 400,
   "requirements": [
 		{ "item": "copper", "amount": 40},
     { "item": "lead", "amount": 50}
 	],
+	"ammo": {
+        "all": {
+            "type": "MassDriverBolt"
+        }
+    }
 	"category": "distribution",
 	"research": "mass-driver"
 
