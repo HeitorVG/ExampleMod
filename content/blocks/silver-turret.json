@@ -2,21 +2,22 @@
 	"type": "DoubleTurret",
 	"name": "Silver Turret",
 	"description": "Sprays useless silver bullets everywhere. What a mess.",
-	"health": 10000,
-	"size": 4,
+	"health": 1500,
+	"size": 2,
 	"reload": 270,
 	"range": 800,
-	"ammoUseEffect": "shellEjectSmall",
+	"ammoUseEffect": "lancerLaserCharge",
 	"inaccuracy": 0,
 	"rotatespeed": 10,
 	"ammo": {
-		"copper": {
+		"iron": {
+                        "type":"BombBulletType"
 			"speed": 300.0,
 			"damage": 200,
 			"bulletWidth": 60,
 			"bulletHeight": 130,
-			"shootEffect": "shootSmall",
-			"smokeEffect": "shootSmallSmoke",
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
 			"ammoMultiplier": 1,
 		}
 	},
