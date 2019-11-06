@@ -1,0 +1,18 @@
+{
+  "name": "MiniDrive",
+	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"type": "MassDriver",
+	"health": 100,
+	"size": 1,
+  "range": 50,
+  "rotateSpeed": 100,
+  "minDistribute": 5,
+  "reloadTime": 10
+  "shake": 1,
+  "requirements": [
+		{ "item": "copper", "amount": 40},
+    { "item": "lead", "amount": 50}
+	],
+	"category": "distribution",
+	"research": "mass-driver"
+}
