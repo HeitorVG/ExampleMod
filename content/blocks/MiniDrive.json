@@ -4,10 +4,7 @@
 	"type": "MassDriver",
 	"health": 100,
 	"size": 1,
-  "range": 50,
   "rotateSpeed": 100,
-  "minDistribute": 5,
-  "reloadTime": 10,
   "shake": 1,
   "requirements": [
 		{ "item": "copper", "amount": 40},
